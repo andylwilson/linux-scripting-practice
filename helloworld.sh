@@ -11,3 +11,5 @@ done
 echo "There are $numOfFiles in this directory."
 
 echo “Hello world 2”
+
+echo "Hello World 3"
